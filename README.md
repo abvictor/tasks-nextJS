@@ -1,7 +1,7 @@
 ## Projeto desenvolvido durante estudo do framework Next JS
 
 <div align="center">
-![Página principal](https://github.com/abvictor/tasks-nextJS/assets/43121767/03edc967-c8fd-4b0a-9603-cfead5a06ce7)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 </div>
 
 
