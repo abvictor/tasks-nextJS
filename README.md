@@ -1,8 +1,6 @@
 ## Projeto desenvolvido durante estudo do framework Next JS
 
-<div align="center">
 ![pagina-principal](https://github.com/abvictor/tasks-nextJS/assets/43121767/9f3ca029-840b-4afd-a2d3-960697d6126b)
-</div>
 
 
 ## Sobre o projeto
